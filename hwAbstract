@@ -1,0 +1,8 @@
+1.Define an abstract class called Shape. This class should have two abstract methods: area() and perimeter(). These methods should not have a body and should be declared as public.
+
+Create a subclass of Shape called Circle. This class should have a constructor that takes a radius as a parameter. It should also implement the area() and perimeter() methods, which should return the area and perimeter of the circle, respectively.
+
+Create another subclass of Shape called Rectangle. This class should have a constructor that takes the length and width of the rectangle as parameters. It should also implement the area() and perimeter() methods, which should return the area and perimeter of the rectangle, respectively.
+
+Create a Main class that instantiates objects of both Circle and Rectangle. It should call the area() and perimeter() methods on each object and print out the results.
+
